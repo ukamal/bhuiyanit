@@ -1,3 +1,6 @@
+[![Watch the video](https://i.postimg.cc/k5b46bgJ/pos.png)](https://www.youtube.com/watch?v=6PYmjz3hDSM)
+
+
 ### 🧩 Installation Guide
 
 To install and run the point of sale -- POS system locally:
